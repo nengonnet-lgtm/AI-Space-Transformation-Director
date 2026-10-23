@@ -1,0 +1,8 @@
+{
+  "name": "AI Space Transformation Director",
+  "description": "AI Director & Google Flow Prompt Architect for Veo3 room makeover, renovation time-lapses, and ASMR storyboards with strict privacy protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
